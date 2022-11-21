@@ -54,5 +54,7 @@ Required to use the software:
 
 Windows system, 7 or later
 RAM memory: at least 4GB
+
 Telegram : @dprcryptimum
+
 Telegram channel : @dprcrypto_fake_transaction
